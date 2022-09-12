@@ -1,5 +1,4 @@
 import cv2 as cv
-from PIL import Image
 import glob
 import os
 import numpy as np
